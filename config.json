@@ -15,7 +15,7 @@
         {
             "type": "IncubateEggs",
             "config": {
-                "longer_eggs_first": true
+                "longer_eggs_first": false
             }
         },
         {
@@ -38,22 +38,22 @@
             "config": {
                 "item_filter": {
                     "Pokeball": {
-                        "keep": 50
+                        "keep": 10
                     },
                     "Potion": {
                         "keep": 10
                     },
                     "Super Potion": {
-                        "keep": 20
+                        "keep": 30
                     },
                     "Hyper Potion": {
-                        "keep": 30
+                        "keep": 0
                     },
                     "Revive": {
-                        "keep": 30
+                        "keep": 0
                     },
                     "Razz Berry": {
-                        "keep": 30
+                        "keep": 5
                     }
                 }
             }
