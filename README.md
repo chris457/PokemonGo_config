@@ -32,5 +32,5 @@ To add configured config.json file to your application follow details below
 </ul>
 
 *please note <strong>Python errors</strong> are not related to the config.json file any problems please list issue and i will pick up ! 
-
+<h2>if you are using please star this repo thank you!</h2>
 <img src="https://cdn1.iconfinder.com/data/icons/151-1/500/p-93-256.png" class="img-responsive" alt="Responsive image">
