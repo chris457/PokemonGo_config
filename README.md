@@ -1,6 +1,6 @@
+[![Github Releases](https://img.shields.io/github/downloads/PokemonGo_config/latest/total.svg?maxAge=2592000)]()
 # PokemonGo_config
 Config.Json file for Pika-bot desktop application
-
 Source for PIkabot application can be found here - https://github.com/PokemonGoF/PokemonGo-Bot-Desktop
 
 **FOR MAC OSX INSTALL**
