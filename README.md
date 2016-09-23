@@ -1,4 +1,4 @@
-UPDATE - i have now changed config here version 3.0.0 - https://github.com/iiCe89/PokemonGo_config/releases
+**UPDATE - i have now changed config here version 3.0.0 - https://github.com/iiCe89/PokemonGo_config/releases**
 # PokemonGo_config
 Config.Json file for Pika-bot desktop application
 Source for PIkabot application can be found here - https://github.com/PokemonGoF/PokemonGo-Bot-Desktop
