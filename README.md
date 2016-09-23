@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/iiCe89/PokemonGo_config/total.svg?maxAge=2592000)]()
+UPDATE - i have now changed config here version 3.0.0 - https://github.com/iiCe89/PokemonGo_config/releases
 # PokemonGo_config
 Config.Json file for Pika-bot desktop application
 Source for PIkabot application can be found here - https://github.com/PokemonGoF/PokemonGo-Bot-Desktop
