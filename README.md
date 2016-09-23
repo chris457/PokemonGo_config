@@ -1,6 +1,6 @@
 
-
-
+<img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_Ultra_Ball-128.png" class="img-responsive" alt="Responsive image">
+<hr>
 **UPDATE - i have now changed config here version 3.0.0 - https://github.com/iiCe89/PokemonGo_config/releases**
 # PokemonGo_config
 Config.Json file for Pika-bot desktop application
