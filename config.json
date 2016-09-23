@@ -26,7 +26,7 @@
             "config": {
                 "evolve_all": "all",
                 "first_evolve_by": "cp",
-                "evolve_above_cp": 700,
+                "evolve_above_cp": 800,
                 "evolve_above_iv": 0.8,
                 "logic": "or",
                 "evolve_speed": 20,
@@ -39,6 +39,13 @@
                 "item_filter": {
                     "Pokeball": {
                         "keep": 10
+                    },
+                    {
+                    "Greatball": {
+                        "keep": 40
+                    },
+                    "Ultraball": {
+                        "keep": 40
                     },
                     "Potion": {
                         "keep": 10
@@ -113,7 +120,7 @@
     },
     "release": {
         "any": {
-            "release_below_cp": 350,
+            "release_below_cp": 400,
             "release_below_iv": 0,
             "logic": "or"
         },
