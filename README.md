@@ -1,4 +1,6 @@
 
+*THIS IS NO LONGER WORKING AS POKEMONGO HAS HAD SEVERAL CHANGES/UPDATES SINCE
+
 <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_Ultra_Ball-128.png" class="img-responsive" alt="Responsive image">
 <hr>
 **UPDATE - i have now changed config here version 3.0.0 - https://github.com/iiCe89/PokemonGo_config/releases**
